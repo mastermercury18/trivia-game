@@ -16,7 +16,6 @@ A SwiftUI-based trivia game for iOS with multiple game modes, difficulty levels,
 
 <img width="314" height="630" alt="home-screen" src="https://github.com/user-attachments/assets/1866ecda-e196-4f19-b5e0-e598990fc766" />
 <img w<img width="319" height="631" alt="incorrect-answer" src="https://github.com/user-attachments/assets/cd354594-647a-4943-b11b-d0cbcba4530d" />
-<img width="319" height="631" alt="incorrect-answer" src="https://github.com/user-attachments/assets/c7b12447-16b9-4202-8cc2-44208270968c" />
 
 ## 🛠️ Technologies Used
 
